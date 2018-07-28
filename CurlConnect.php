@@ -84,7 +84,6 @@ class CurlConnect {
 
     /**
      * Execute and get the result.
-     * @todo: it would be easy to use Guzzle instead cURL.
      * 
      * @param  string $url     URL connect to
      * @param  array  $options parameters to connect
